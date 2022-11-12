@@ -101,4 +101,24 @@ console.log(city);*/
 
 
 
-//arrays with objects
+//arrays of objects
+/*const todos = [
+    {
+        id:1,
+        text: 'agalya',
+        isComplete: true
+
+    },
+    {
+        id:2,
+        text: 'palanisamy',
+        isCompleted: true
+    },
+    {
+        id:3,
+        text: 'vanitha',
+        isCompleted: false
+    }
+
+];
+console.log(todos[1].text);*/

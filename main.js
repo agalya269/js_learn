@@ -122,3 +122,25 @@ console.log(city);*/
 
 ];
 console.log(todos[1].text);*/
+
+/*const todos = [
+    {
+        id:1,
+        text: 'agalya',
+        isComplete: true
+
+    },
+    {
+        id:2,
+        text: 'palanisamy',
+        isCompleted: true
+    },
+    {
+        id:3,
+        text: 'vanitha',
+        isCompleted: false
+    }
+
+];
+const todoJSON = JSON.stringify(todos);
+console.log(todoJSON);*/
